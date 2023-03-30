@@ -2,5 +2,6 @@
 int main()
 {
 	aaaaaaa;
+	bbbbbbb;
 	return 0;
 }
